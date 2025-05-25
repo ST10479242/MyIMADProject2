@@ -25,8 +25,6 @@ class ReviewActivity : AppCompatActivity() {
         // Get references to the TextView and Button from the layout
         val reviewTextView = findViewById<TextView>(R.id.reviewText)
         val exitButton = findViewById<Button>(R.id.exitButton)
-
-        // StringBuilder is used for efficient string concatenation
         val builder = StringBuilder()
 
         // Loop through each question and its answer to build the review text
