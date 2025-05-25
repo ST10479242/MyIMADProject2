@@ -1,9 +1,11 @@
 package za.co.varsitycollege.st10479242.myproject2st
+//ST10479242
 
 import android.content.Intent
 import android.os.Bundle
+import android.widget.Button
+import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import android.widget.*
 
 class QuizActivity : AppCompatActivity() {
 
