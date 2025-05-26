@@ -2,7 +2,7 @@
 # IMAD 5112
 
 ### 🧠 Purpose of the App
-A native Android flashcard-style quiz app developed using Kotlin and Android Studio.The **Flashcard Quiz App** is designed to provide users with a quick and engaging way to test their general history knowledge. It's educational, lightweight, and ideal for users looking to practice historical facts through a quiz format.
+A native Android flashcard-style quiz app developed using Kotlin and Android Studio.The **Flashcard Quiz App** is designed to provide users with a quick and engaging way to test their general history knowledge. Using True and False questions, It's educational, lightweight, and ideal for users looking to practice historical facts through a quiz format.
 
 ## 🔗 GitHub Repository
 
