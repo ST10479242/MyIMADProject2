@@ -40,3 +40,7 @@ A native Android flashcard-style quiz app developed using Kotlin and Android Stu
   4. Then press the green play button in Android Studio
 
 ## 🖼 Screenshots
+![Screenshot 2025-05-26 155305](https://github.com/user-attachments/assets/3c1c92f1-1cd0-4e01-8a73-140842c945d3)
+![Screenshot 2025-05-26 155319](https://github.com/user-attachments/assets/4c0912a0-12a5-4356-81c5-057fdede323a)
+![Screenshot 2025-05-26 155335](https://github.com/user-attachments/assets/f98b5fa6-d3a7-42ad-8220-1df72eb8af14)
+![Screenshot 2025-05-26 155343](https://github.com/user-attachments/assets/7063d565-2d2c-437e-9c7c-4bd299ce9ede)
