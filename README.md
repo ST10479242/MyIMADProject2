@@ -6,11 +6,11 @@ A native Android flashcard-style quiz app developed using Kotlin and Android Stu
 
 ## 🔗 GitHub Repository
 
-👉 [View the code on GitHub](https://github.com/your-username/your-repo-name)
+👉 [View the code on GitHub]((https://github.com/ST10479242/MyIMADProject2))
 
 ## 🎥 YouTube Demo
 
-▶️ [Watch the demo video](https://youtube.com/your-demo-video-link)
+▶️ [Watch the demo video]((https://youtu.be/VjidIzoc9Qo))
 
 ### 🎨 Design Considerations
 - **User Interface**: 
