@@ -27,7 +27,7 @@ A native Android flashcard-style quiz app developed using Kotlin and Android Stu
 ### 🧰 Use of GitHub & GitHub Actions
 
 - The project is version-controlled using **Git** and hosted on **GitHub**.
-- A **GitHub Actions CI workflow** is implemented to:
+- A **GitHub Actions Build workflow** is implemented to:
   - Automatically build the app on each push to the `main` branch.
   - Run basic tests using Gradle.
   - Ensure the project compiles successfully on each update.
